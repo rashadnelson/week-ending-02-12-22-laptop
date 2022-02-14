@@ -11,6 +11,6 @@ function unreapeatedArray(arr) {
         console.log(unrepeated)
     }
 }
-unreapeatedArray(["1223", "334455", "667788", "7798956443211"])
+unreapeatedArray(["1223", "334455", "667788", "7798956443211", "88899912344559887655"])
 
 
