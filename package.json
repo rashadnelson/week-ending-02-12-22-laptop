@@ -1,0 +1,23 @@
+{
+  "name": "week-ending-02-12-22-laptop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashadnelson/week-ending-02-12-22-laptop.git"
+  },
+  "author": "Rashad Nelson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rashadnelson/week-ending-02-12-22-laptop/issues"
+  },
+  "homepage": "https://github.com/rashadnelson/week-ending-02-12-22-laptop#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
